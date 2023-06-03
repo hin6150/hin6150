@@ -9,6 +9,7 @@
   </div>
     <br>
   <div>
+<!--     https://simpleicons.org/?q=ReactNative -->
     <!-- React -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=white">
     <!-- Vue -->
@@ -27,6 +28,8 @@
     <img src="https://img.shields.io/badge/RTK-764ABC?style=style=flat&logo=redux&logoColor=white">
     <!-- TypeScript -->
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=style=flat&logo=typescript&logoColor=white">
+    <!-- ReactNative -->
+    <img src="https://img.shields.io/badge/React Native-0088CC?style=style=flat&logo=react&logoColor=white">
   </div>
 </div>
 
@@ -37,14 +40,22 @@
     Secondary Stack
   </div>
   <br>
-  <!-- node.js -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=style=flat&logo=nodedotjs&logoColor=white">
-  <!-- axios -->
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=style=flat&logo=axios&logoColor=white">
-  <!-- mysql -->
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=style=flat&logo=mysql&logoColor=white">
-  <!-- express -->
-  <img src="https://img.shields.io/badge/Express-333?style=style=flat&logo=express&logoColor=white">
+  <div>
+    <!-- node.js -->
+    <img src="https://img.shields.io/badge/Node.js-339933?style=style=flat&logo=nodedotjs&logoColor=white">
+    <!-- axios -->
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=style=flat&logo=axios&logoColor=white">
+    <!-- mysql -->
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=style=flat&logo=mysql&logoColor=white">
+    <!-- express -->
+    <img src="https://img.shields.io/badge/Express-333?style=style=flat&logo=express&logoColor=white">
+  </div>
+  <div>
+    <!-- spring -->
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=style=flat&logo=spring&logoColor=white">  
+    <!-- springBoot -->
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=style=flat&logo=springboot&logoColor=white">
+  </div>
 </div>
 <br>
 
@@ -57,8 +68,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=style=flat&logo=figma&logoColor=white">
   <!-- github -->
   <img src="https://img.shields.io/badge/github-181717?style=style=flat&logo=github&logoColor=white">
-    <!-- visualstudiocode -->
+  <!-- visualstudiocode -->
   <img src="https://img.shields.io/badge/VsCode-007ACC?style=style=flat&logo=visualstudiocode&logoColor=white">
+  <!-- intelliJ -->
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-333?style=style=flat&logo=intellijidea&logoColor=white">
 </div>
 <br>
 
