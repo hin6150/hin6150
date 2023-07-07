@@ -4,9 +4,9 @@
 </div>
 
 <div align=center>
-  <h2>
+  <h3>
     Primary Stack
-  </h2>
+  </h3>
     <br>
   <div>
 <!--     https://simpleicons.org/?q=ReactNative -->
@@ -36,9 +36,9 @@
 <br>
 
 <div align=center>
-  <h2>
+  <h3>
     Secondary Stack
-  </h2>
+  </h3>
   <br>
   <div>
     <!-- node.js -->
@@ -60,9 +60,9 @@
 <br>
 
 <div align=center>
-  <h2>
+  <h3>
     Tool
-  </h2>
+  </h3>
   <br>
   <!-- Figma -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=style=flat&logo=figma&logoColor=white">
@@ -76,9 +76,9 @@
 <br>
 
 <div align = center>
-  <h2>
+  <h3>
     BackJoon Rank
-  </h2>
+  </h3>
   <br>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hin6150)](https://solved.ac/profile/hin6150)
