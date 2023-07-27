@@ -81,7 +81,7 @@
   </h3>
   <br>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hin6150)](https://solved.ac/profile/hin6150)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hin6150)](https://solved.ac/profile/hin6150)
 </div>
 
 <div align = center>
