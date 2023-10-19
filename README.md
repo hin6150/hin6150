@@ -11,7 +11,7 @@
   <div>
 <!--     https://simpleicons.org/?q=ReactNative -->
     <!-- React -->
-    <img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=black">
     <!-- Vue -->
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=style=flat&logo=vuedotjs&logoColor=white">
     <!-- HTML -->
@@ -19,7 +19,7 @@
     <!-- CSS -->
     <img src="https://img.shields.io/badge/Css3-1572B6?style=style=flat&logo=css3&logoColor=white">
     <!-- JavaScript -->
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat&logo=javascript&logoColor=black">
   </div>
   <div>
     <!-- SASS -->
@@ -29,7 +29,11 @@
     <!-- TypeScript -->
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=style=flat&logo=typescript&logoColor=white">
     <!-- ReactNative -->
-    <img src="https://img.shields.io/badge/React Native-0088CC?style=style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/React Native-61dafb?style=style=flat&logo=react&logoColor=black">
+    <!-- Dart -->
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=style=flat&logo=dart&logoColor=white">
+    <!-- Flutter -->
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=style=flat&logo=flutter&logoColor=white">
   </div>
 </div>
 
@@ -72,6 +76,8 @@
   <img src="https://img.shields.io/badge/VsCode-007ACC?style=style=flat&logo=visualstudiocode&logoColor=white">
   <!-- intelliJ -->
   <img src="https://img.shields.io/badge/IntelliJ IDEA-333?style=style=flat&logo=intellijidea&logoColor=white">
+  <!-- Notion -->
+  <img src="https://img.shields.io/badge/Notion-181717?style=style=flat&logo=notion&logoColor=white">
 </div>
 <br>
 
