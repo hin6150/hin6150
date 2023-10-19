@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/Css3-1572B6?style=style=flat&logo=css3&logoColor=white">
     <!-- JavaScript -->
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat&logo=javascript&logoColor=black">
+    <!-- axios -->
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=style=flat&logo=axios&logoColor=white">
   </div>
   <div>
     <!-- SASS -->
@@ -47,14 +49,10 @@
   <div>
     <!-- node.js -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=style=flat&logo=nodedotjs&logoColor=white">
-    <!-- axios -->
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=style=flat&logo=axios&logoColor=white">
     <!-- mysql -->
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=style=flat&logo=mysql&logoColor=white">
     <!-- express -->
     <img src="https://img.shields.io/badge/Express-333?style=style=flat&logo=express&logoColor=white">
-  </div>
-  <div>
     <!-- spring -->
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=style=flat&logo=spring&logoColor=white">  
     <!-- springBoot -->
