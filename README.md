@@ -5,31 +5,44 @@
 
 <div align=center>
   <h3>
-    Primary Stack
+    FrontEnd Stack
   </h3>
-    <br>
   <div>
-<!--     https://simpleicons.org/?q=ReactNative -->
+    <!-- https://simpleicons.org/?q=ReactNative -->
     <!-- React -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=style=flat&logo=react&logoColor=black">
     <!-- Vue -->
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=style=flat&logo=vuedotjs&logoColor=white">
-    <!-- HTML -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=style=flat&logo=html5&logoColor=white">
-    <!-- CSS -->
-    <img src="https://img.shields.io/badge/Css3-1572B6?style=style=flat&logo=css3&logoColor=white">
-    <!-- JavaScript -->
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=style=flat&logo=javascript&logoColor=black">
-    <!-- axios -->
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=style=flat&logo=axios&logoColor=white">
-  </div>
-  <div>
-    <!-- SASS -->
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=style=flat&logo=sass&logoColor=white">
-    <!-- Redux -->
-    <img src="https://img.shields.io/badge/RTK-764ABC?style=style=flat&logo=redux&logoColor=white">
     <!-- TypeScript -->
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=style=flat&logo=typescript&logoColor=white">
+    <!-- SASS -->
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=style=flat&logo=sass&logoColor=white">
+    <!-- styledcomponents -->
+    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=style=flat&logo=styledcomponents&logoColor=white">
+  </div>
+</div>
+<br>
+<div align=center>
+  <h3>
+    State Management
+  </h3>
+  <div> 
+    <!-- React Query -->
+    <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=style=flat&logo=reactquery&logoColor=white">
+    <!-- Redux -->
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=style=flat&logo=redux&logoColor=white">
+    <!-- RTKQuery -->
+    <img src="https://img.shields.io/badge/RTKQuery-764ABC?style=style=flat&logo=redux&logoColor=white">
+  </div>
+</div>
+
+<br>
+
+<div align=center>
+  <h3>
+    Mobile
+  </h3>
+  <div>
     <!-- ReactNative -->
     <img src="https://img.shields.io/badge/React Native-61dafb?style=style=flat&logo=react&logoColor=black">
     <!-- Dart -->
@@ -38,45 +51,24 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=style=flat&logo=flutter&logoColor=white">
   </div>
 </div>
-
-<br>
+<br />
 
 <div align=center>
   <h3>
-    Secondary Stack
+    Studying
   </h3>
-  <br>
   <div>
-    <!-- node.js -->
+    <!-- Recoil -->
+    <img src="https://img.shields.io/badge/Recoil-3578E5?style=style=flat&logo=recoil&logoColor=white">
+    <!-- nextdotjs -->
+    <img src="https://img.shields.io/badge/Next.js-000000?style=style=flat&logo=nextdotjs&logoColor=white">
+    <!-- jest -->
+    <img src="https://img.shields.io/badge/Jest-C21325?style=style=flat&logo=jest&logoColor=white">
+    <!-- nodedotjs -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=style=flat&logo=nodedotjs&logoColor=white">
-    <!-- mysql -->
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=style=flat&logo=mysql&logoColor=white">
-    <!-- express -->
-    <img src="https://img.shields.io/badge/Express-333?style=style=flat&logo=express&logoColor=white">
-    <!-- spring -->
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=style=flat&logo=spring&logoColor=white">  
-    <!-- springBoot -->
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=style=flat&logo=springboot&logoColor=white">
   </div>
 </div>
-<br>
 
-<div align=center>
-  <h3>
-    Tool
-  </h3>
-  <br>
-  <!-- Figma -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=style=flat&logo=figma&logoColor=white">
-  <!-- github -->
-  <img src="https://img.shields.io/badge/github-181717?style=style=flat&logo=github&logoColor=white">
-  <!-- visualstudiocode -->
-  <img src="https://img.shields.io/badge/VsCode-007ACC?style=style=flat&logo=visualstudiocode&logoColor=white">
-  <!-- intelliJ -->
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-333?style=style=flat&logo=intellijidea&logoColor=white">
-  <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-181717?style=style=flat&logo=notion&logoColor=white">
-</div>
 <br>
 
 <div align = center>
