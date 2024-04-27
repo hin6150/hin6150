@@ -30,34 +30,6 @@
     <img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=style=flat&logo=tailwindcss&logoColor=white">
   </div>
   
-  <h3>
-    Status management
-  </h3>
-  <div>
-    <!-- React Query -->
-    <img src="https://img.shields.io/badge/React Query-FF4154?style=style=flat&logo=reactquery&logoColor=white">
-    <!-- Redux -->
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=style=flat&logo=redux&logoColor=white">
-    <!-- RTKQuery -->
-    <img src="https://img.shields.io/badge/RTK Query-764ABC?style=style=flat&logo=redux&logoColor=white">
-  </div>
-
-
-  <h3>
-    Language
-  </h3>
-  <div>
-    <!-- JavaScript -->
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=style=flat&logo=javascript&logoColor=black">
-    <!-- TypeScript -->
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=style=flat&logo=typescript&logoColor=white">
-    <!-- Python -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white">
-    <!-- Dart -->
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=style=flat&logo=dart&logoColor=white">
-    <!-- Java -->
-    <img src="https://img.shields.io/badge/Java-663300?style=style=flat&logo=intellijidea&logoColor=white">
-  </div>
 
   <h3>
     Cross-Platform
@@ -79,7 +51,7 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=style=flat&logo=amazonaws&logoColor=white">
     <!-- amazon S3 -->
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=style=flat&logo=amazons3&logoColor=white">    
-    <!-- PostGRE -->
+    <!-- PostgreSQL -->
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=style=flat&logo=postgresql&logoColor=white">    
     <!-- MongoDB -->
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=style=flat&logo=mongodb&logoColor=white">
