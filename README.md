@@ -1,5 +1,5 @@
+
 <div>
-  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&duration=10000&pause=2000&color=19A7CE&center=true&vCenter=true&width=450&height=100&lines=Hello+World+...+!)](https://git.io/typing-svg)
 </div>
 
@@ -75,4 +75,6 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=hin6150&theme=highcontrast&hide_border=true&fire=EB5454&background=0D1117)](https://git.io/streak-stats)
 </div>
 -->
+## 최근 블로그 포스팅
 
+[2024/04/27 - [RN] 왜 React Native 인가?](http://hin6150.tistory.com/2) <br/>
