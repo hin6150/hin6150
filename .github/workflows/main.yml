@@ -16,8 +16,12 @@ jobs:
 
     runs-on: ubuntu-latest
 
+
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.BLOG_ACTIONS_TOKEN }} # GITHUB_TOKEN을 사용하여 저장소를 체크아웃
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
