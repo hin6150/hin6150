@@ -2,10 +2,11 @@ import feedparser, time
 
 URL = "https://hin6150.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 1
+MAX_POST = 5
 
 markdown_text = """
 <div>
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&duration=10000&pause=2000&color=19A7CE&center=true&vCenter=true&width=450&height=100&lines=Hello+World+...+!)](https://git.io/typing-svg)
 </div>
 
