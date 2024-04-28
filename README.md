@@ -78,4 +78,4 @@
 -->
 ## 최근 블로그 포스팅
 
-[2024/04/27 - [RN] 왜 React Native 인가?](http://hin6150.tistory.com/2) <br/>
+[2024/04/27 - [RN] 왜 React Native 인가?](https://hin6150.tistory.com/2) <br/>
