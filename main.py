@@ -3,7 +3,6 @@ import feedparser, time
 URL = "https://hin6150.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
-
 markdown_text = """
 <div>
 
