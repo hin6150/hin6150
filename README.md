@@ -4,59 +4,39 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&duration=10000&pause=2000&color=19A7CE&center=true&vCenter=true&width=450&height=100&lines=Hello+World+...+!)](https://git.io/typing-svg)
 </div>
 
-  <h3>
-    Web FrameWork
-  </h3>
-  <div>
-    <!-- https://simpleicons.org/?q=ReactNative -->
-    <!-- React -->
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=style=flat&logo=react&logoColor=black">
-    <!-- nextdotjs -->
-    <img src="https://img.shields.io/badge/Next.js-000000?style=style=flat&logo=nextdotjs&logoColor=white">
-    <!-- Vue -->
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=style=flat&logo=vuedotjs&logoColor=white">
-  </div>
-  
-  <h3>
-    CSS
-  </h3>
-  <div>
-    <!-- styledcomponents -->
-    <img src="https://img.shields.io/badge/Styled Components-DB7093?style=style=flat&logo=styledcomponents&logoColor=white">    
-    <!-- emotion -->
-    <img src="https://img.shields.io/badge/Emotion-D26AC2?style=style=flat&logo=styledcomponents&logoColor=white">
-    <!-- SASS -->
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=style=flat&logo=sass&logoColor=white">
-    <!-- TailWind -->
-    <img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=style=flat&logo=tailwindcss&logoColor=white">
-  </div>
-  
+<ul>
+  <li>
+    <strong>2024. 07 - 진행중</strong><br />
+    GDG On Campus: Kangnam Univ. 1st<br />
+    Co Leader · 공동 리드
+  </li>
+  <li>
+    <strong>2023. 10 - </strong><br />
+    SLiPP(Study Commnutiy)<br />
+    25th Member · 구성원
+  </li>
+  <li>
+    <strong>2024. 02 - 2024. 09</strong><br />
+    Prography 9th<br />
+    Frontend · 프론트엔드 파트
+  </li>
+  <li>
+    <strong>2024. 01 - 2024. 07</strong><br />
+    두런두런 2기<br />
+    Organizer · 동아리 회장
+  </li>
+  <li>
+    <strong>2023. 09 - 2024. 01</strong><br />
+    Team 두런두런<br />
+    Team Leader · 팀 리더
+  </li>
+  <li>
+    <strong>2023. 01 - 2023. 12</strong><br />
+    멋쟁이사자처럼 11기<br />
+    Frontend · 프론트엔드 파트
+  </li>
+</ul>
 
-  <h3>
-    Cross-Platform
-  </h3>
-  <div>
-    <!-- ReactNative -->
-    <img src="https://img.shields.io/badge/React Native-61dafb?style=style=flat&logo=react&logoColor=black">
-    <!-- Flutter -->
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=style=flat&logo=flutter&logoColor=white">
-  </div>
-  
-  <h3>
-    BackEnd & Etc..
-  </h3>
-  <div>
-    <!-- FASTAPI -->
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=style=flat&logo=fastapi&logoColor=black">
-    <!-- amazonaws -->
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=style=flat&logo=amazonaws&logoColor=white">
-    <!-- amazon S3 -->
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=style=flat&logo=amazons3&logoColor=white">    
-    <!-- PostgreSQL -->
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=style=flat&logo=postgresql&logoColor=white">    
-    <!-- MongoDB -->
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=style=flat&logo=mongodb&logoColor=white">
-  </div>
 
 <br />
 
