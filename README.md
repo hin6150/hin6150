@@ -10,26 +10,31 @@
     GDG On Campus: Kangnam Univ. 1st<br />
     Co Leader · 공동 리드
   </li>
+  <br />
   <li>
     <strong>2023. 10 - </strong><br />
     SLiPP(Study Commnutiy)<br />
     25th Member · 구성원
   </li>
+  <br />
   <li>
     <strong>2024. 02 - 2024. 09</strong><br />
     Prography 9th<br />
     Frontend · 프론트엔드 파트
   </li>
+  <br />
   <li>
     <strong>2024. 01 - 2024. 07</strong><br />
     두런두런 2기<br />
     Organizer · 동아리 회장
   </li>
+  <br />
   <li>
     <strong>2023. 09 - 2024. 01</strong><br />
     Team 두런두런<br />
     Team Leader · 팀 리더
   </li>
+  <br />
   <li>
     <strong>2023. 01 - 2023. 12</strong><br />
     멋쟁이사자처럼 11기<br />
