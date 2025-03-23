@@ -1,6 +1,3 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
 name: Python application
 
 on:
@@ -9,36 +6,50 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-      - cron: "0 0 */1 * *"
+    - cron: "0 0 * * 0"   # 매주 일요일 00:00 (UTC)에 실행
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
-
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
       with:
-        token: ${{ secrets.BLOG_ACTIONS_TOKEN }} # GITHUB_TOKEN을 사용하여 저장소를 체크아웃
+        token: ${{ secrets.BLOG_ACTIONS_TOKEN }}
 
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install feedparser
+
     - name: Run Update Python Script
       run: |
-        python main.py
-    - name: Update README.md file
-      run: | 
+        set -e
+        # main.py 내에서 데이터가 없을 경우 예외가 발생하면, 해당 메시지를 출력하고 exit 0으로 처리하여 후속 스텝 실행은 진행하지만
+        # 변경사항이 없으므로 커밋 단계는 건너뛰게 됩니다.
+        python main.py || { echo "No data available or error occurred in main.py. Skipping update."; exit 0; }
+
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and push changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
         git pull
-        git add .
-        git diff
         git config --local user.email "hin6150@gmail.com"
         git config --local user.name "hin6150"
+        git add .
         git commit -m "Updating Blog Posts"
         git push
