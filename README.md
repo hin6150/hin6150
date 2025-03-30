@@ -78,6 +78,7 @@
 -->
 ## 최근 블로그 포스팅
 
+[2025/03/24 - Ref를 이용해 전역 모달 시스템 구축하기](https://hin6150.tistory.com/9) <br/>
 [2025/03/23 - TanStack의 QueryClient를 이용해 Cache 데이터 활용하기](https://hin6150.tistory.com/8) <br/>
 [2025/03/09 - 재귀 호출을 통한 데이터 구조 변환](https://hin6150.tistory.com/7) <br/>
 [2024/11/12 - 2023년을 돌아보며, Feat. LIKELION](https://hin6150.tistory.com/3) <br/>
