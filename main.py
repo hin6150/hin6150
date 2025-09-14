@@ -9,9 +9,10 @@ retro_posts, dev_posts = [], []
 for e in FEED.entries:
     # 1) Tistory RSS는 tags 리스트 안의 term 필드에 카테고리/태그가 들어있음
     tags = [t.term for t in getattr(e, "tags", [])]
-    published = time.strftime("%Y/%m/%d", e.published_parsed)
-    line = f"[{published} - {e.title}]({e.link}) <br/>\n"
-
+    # published = time.strftime("%Y/%m/%d", e.published_parsed)
+    # line = f"[{published} - {e.title}]({e.link}) <br/>\n"
+    line = f"[{e.title}]({e.link}) <br/>\n"
+    
     if "회고록" in tags and len(retro_posts) < MAX_RETRO:
         retro_posts.append(line)
     elif "개발" in tags and len(dev_posts) < MAX_DEV:
