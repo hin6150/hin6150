@@ -6,7 +6,6 @@
 
 [좀 더 자세히 보기](https://hin6150.notion.site)
 
-
 ## 📊 GitHub 활동
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hin6150&show_icons=true" />
@@ -17,10 +16,10 @@
 ## ✍🏻 최근 블로그 글
 
 ### 📘 회고록
-[2025/04/20 - 프로젝트 팀 두런두런 활동 후기 - 게이미케이션 기반 소셜 챌린지 어플 개발](https://hin6150.tistory.com/11) <br/>
+[프로젝트 팀 두런두런 활동 후기 - 게이미케이션 기반 소셜 챌린지 어플 개발](https://hin6150.tistory.com/11) <br/>
 
 
 ### 💻 개발
-[2025/03/24 - Ref를 이용해 전역 모달 시스템 구축하기](https://hin6150.tistory.com/9) <br/>
-[2025/03/23 - TanStack의 QueryClient를 이용해 Cache 데이터 활용하기](https://hin6150.tistory.com/8) <br/>
+[6주 만에 앱 출시, Axios Interceptor를 활용한 토큰 관리](https://hin6150.tistory.com/13) <br/>
+[React Native와 WebView, 타입스크립트로 안전하게 통신하기](https://hin6150.tistory.com/12) <br/>
 
