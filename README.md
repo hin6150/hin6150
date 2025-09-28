@@ -16,7 +16,10 @@
 ## ✍🏻 최근 블로그 글
 
 ### 📘 회고록
-업데이트된 회고 글이 없습니다.
+[프로젝트 팀 두런두런 활동 후기 - 게이미케이션 기반 소셜 챌린지 어플 개발](https://hin6150.tistory.com/11) <br/>
+
 
 ### 💻 개발
-업데이트된 개발 글이 없습니다.
+[6주 만에 앱 출시, Axios Interceptor를 활용한 토큰 관리](https://hin6150.tistory.com/13) <br/>
+[React Native와 WebView, 타입스크립트로 안전하게 통신하기](https://hin6150.tistory.com/12) <br/>
+
